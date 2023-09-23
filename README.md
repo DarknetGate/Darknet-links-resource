@@ -8,8 +8,8 @@ DarknetGate is a trusted and reputable platform that thoroughly verifies the leg
 
 ## Darknet Markets
 
-[Nemesis Market](http://nemesis555nchzn2dogee6mlc7xxgeeshqirmh3yzn4lo5cnd4s5a4yd.onion) - Nemesis is an innovative darknet market that combines successful features from past markets to create a unique market/forum hybrid. 
-[MGM Grand Market](http://duysanjqxo4svh35yqkxxe5r54z2xc5tjf6r3ichxd3m2rwcgabf44ad.onion) - This market has seen increased traffic due to the closure or inaccessibility of other markets in the darknet.
+*   [Nemesis Market](http://nemesis555nchzn2dogee6mlc7xxgeeshqirmh3yzn4lo5cnd4s5a4yd.onion) - Nemesis is an innovative darknet market that combines successful features from past markets to create a unique market/forum hybrid. 
+*   [MGM Grand Market](http://duysanjqxo4svh35yqkxxe5r54z2xc5tjf6r3ichxd3m2rwcgabf44ad.onion) - This market has seen increased traffic due to the closure or inaccessibility of other markets in the darknet.
 
 
 Find more darknet links and darknet news at [DarknetPrime.com](https://darknetprime.com)
