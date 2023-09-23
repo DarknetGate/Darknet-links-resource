@@ -12,4 +12,4 @@ DarknetGate is a trusted and reputable platform that thoroughly verifies the leg
 *   [MGM Grand Market](http://duysanjqxo4svh35yqkxxe5r54z2xc5tjf6r3ichxd3m2rwcgabf44ad.onion) - This market has seen increased traffic due to the closure or inaccessibility of other markets in the darknet.
 
 
-Find more darknet links and darknet news at [DarknetPrime.com](https://darknetprime.com)
+Find more darknet links and darknet news at [DarknetGate.com](https://darknetgate.com)
